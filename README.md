@@ -24,4 +24,4 @@
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/112633603/188491354-47b58f0c-a801-4571-9ac8-1e84e1f0ad6b.png)
 
-The link for the website is:
+The link for the website is:https://gentle-smoke-08d728410.1.azurestaticapps.net/
